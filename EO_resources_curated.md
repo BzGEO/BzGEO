@@ -46,7 +46,7 @@
   * EOportal.org [hyperspectral mission list](https://www.eoportal.org/other-space-activities/hyperspectral-imaging)
 * **GitHub code repositories** (*not exhaustive*)
   * Brian Bue et al.'s [Hyperspectral Image Interactive Holistic Analysis Toolkit, HiiHAT (2011)](https://github.com/dsmbgu8/HiiHAT)
-  * GatorSense Hyperspectral Image Analysis Toolkit
+  * GatorSense's Hyperspectral Image Analysis Toolkit
     * [Matlab implementation (2018)](https://github.com/GatorSense/hsi_toolkit)
     * [Python implementation (2019)](https://github.com/GatorSense/hsi_toolkit_py)
   * Charles Camp Jr.'s [CRIKit2: Hyperspectral imaging toolkit (2022)](https://github.com/CCampJr/CRIkit2)
