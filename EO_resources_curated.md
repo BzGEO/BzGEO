@@ -40,19 +40,23 @@
 
 ## Google Earth Engine (#GEE)
 * [GEE Code Editor](https://code.earthengine.google.com/)
+  * [GEE registration link](https://earthengine.google.com/signup/)
+  * [Instructions for GEE project registration](https://courses.spatialthoughts.com/gee-sign-up.html), via SpatialThoughts.com
 * [GEE tasks](https://code.earthengine.google.com/tasks)
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* Apps
- * [BzGEO's published apps](https://bzgeo.users.earthengine.app/)
- * [SERVIR-BZ's published apps](https://servirbz.users.earthengine.app/)
- * [BZ-SDG project's published apps](https://bz-sdg.earthengine.app/)
+* Google Groups
+  * [GEE Developers Google Group](https://groups.google.com/g/google-earth-engine-developers)
+* Data catalogs
+  * [GEE public catalog](https://developers.google.com/earth-engine/datasets)
+  * [Awesome GEE community catalog](https://gee-community-catalog.org/)
+* GEE tutorials, etc.
+  * [Book: EE Fundamentals & Applications]()
+  * []()
+* GEE apps
+   * [BzGEO's published apps](https://bzgeo.users.earthengine.app/)
+   * [SERVIR-BZ's published apps](https://servirbz.users.earthengine.app/)
+   * [BZ-SDG project's published apps](https://bz-sdg.earthengine.app/)
+* Other resources
+  * [Colors via JavaScripter](http://www.javascripter.net/faq/colornam.htm)
 
 ## Google's Geo For Good conferences
 * Geo For Good 2024 (G4G 2024)
