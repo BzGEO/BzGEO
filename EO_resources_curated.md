@@ -11,7 +11,7 @@
   * [NASA  OB.DAAC L3 / L4 browser](https://oceandata.sci.gsfc.nasa.gov/l3/)
   * [NASA ASF DAAC](https://search.asf.alaska.edu/#/)
   * [NASA AppEEARS](https://appeears.earthdatacloud.nasa.gov/)
-* United States Geological Survey (USGS)
+* U.S. Geological Survey (USGS)
   * [USGS Glovis](https://glovis.usgs.gov/app)
   * [USGS ESPA](https://espa.cr.usgs.gov/)
 * European Commission's Copernicus Programme + European Space Agency (ESA)
@@ -32,12 +32,26 @@
     * [Plankton, Aerosol, Cloud, ocean Ecosystem (PACE), 2024-present](https://pace.oceansciences.org/)
     * [Surface Biology & Geology (SBG), proposed](https://sbg.jpl.nasa.gov/)
   * EOportal.org [hyperspectral mission list](https://www.eoportal.org/other-space-activities/hyperspectral-imaging)
-* GitHub code repositories
-  * [BzGEO's PACE OCI toolkit (2025)](https://github.com/BzGEO/pace_oci_toolkit)
-    * [GEE code repo](https://bit.ly/gee_repo_pace_oci)
-  * [BzGEO's Hyperspectral toolkit (2025)](https://github.com/BzGEO/hyperspectral_toolkit)
-    * [GEE code repo](https://bit.ly/gee_repo_hyperspectral)
-  * []()
+* GitHub code repositories (*not exhaustive*)
+  * Brian Bue et al.'s [Hyperspectral Image Interactive Holistic Analysis Toolkit, HiiHAT (2011)](https://github.com/dsmbgu8/HiiHAT)
+  * GatorSense Hyperspectral Image Analysis Toolkit
+    * [Matlab implementation (2018)](https://github.com/GatorSense/hsi_toolkit)
+    * [Python implementation (2019)](https://github.com/GatorSense/hsi_toolkit_py)
+  * Charles Camp Jr.'s [CRIKit2: Hyperspectral imaging toolkit (2022)](https://github.com/CCampJr/CRIkit2)
+  * SpringsZ's [Hyperspectral Image Computer Vision Classification Image Preprocessing Toolkit (2023)](https://github.com/springsZ/Hyperspectral-Image-Computer-Vision-Classification-Image-Preprocessing-Toolkit)
+  * NASA
+    * [SBG-VSWIR (2025)](https://github.com/sbg-vswir) (*multiple individual repositories*)
+    * [ISOFIT 3x (2025)](https://github.com/isofit/isofit)
+    * [VITALS (2025)](https://github.com/nasa/VITALS)
+  * Giacomo Nodjoumi's [HyperSpectral Toolkit (2024)](https://github.com/Hyradus/HyperSpectralToolkit)
+  * Wujietao's [Hyperspectral Detection Tools (2024)](https://github.com/wujietao233/Hyperspectral_Detection_Tools)
+  * SongYZ [Hyperspectral Imagery (HSI) Preprocessing Toolkit (2025)](https://github.com/songyz2019/hsi-preprocessing-toolkit)
+  * Skye Caplan's [PACE tutorials (2025)](https://github.com/skyecaplan/pace_tutorials)
+  * BzGEO
+   * [PACE OCI toolkit (2025)](https://github.com/BzGEO/pace_oci_toolkit)
+     * [GEE code repo](https://bit.ly/gee_repo_pace_oci)
+   * [Hyperspectral toolkit (2025)](https://github.com/BzGEO/hyperspectral_toolkit)
+     * [GEE code repo](https://bit.ly/gee_repo_hyperspectral)
 
 ## Spotlight: Hyperspectral data from NASA's PACE
 * [PACE mission page](https://pace.oceansciences.org/)
