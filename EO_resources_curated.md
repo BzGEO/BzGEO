@@ -39,6 +39,8 @@
   * [MyEsri.com](https://my.esri.com/)
 
 ## Google Earth Engine (#GEE)
+* [GEE Code Editor](https://code.earthengine.google.com/)
+* [GEE tasks](https://code.earthengine.google.com/tasks)
 * []()
 * []()
 * []()
@@ -47,10 +49,10 @@
 * []()
 * []()
 * []()
-* []()
-* []()
-* []()
-* []()
+* Apps
+ * [BzGEO's published apps](https://bzgeo.users.earthengine.app/)
+ * [SERVIR-BZ's published apps](https://servirbz.users.earthengine.app/)
+ * [BZ-SDG project's published apps](https://bz-sdg.earthengine.app/)
 
 ## Google's Geo For Good conferences
 * Geo For Good 2024 (G4G 2024)
