@@ -27,11 +27,11 @@
 ## *What's hyperspectral all about?* Hyperspectral data resources
 * Missions
   * NASA spaceborne (i.e., satellite) missions
-    * [EO-1 Hyperion, 2001-2017](https://www.usgs.gov/centers/eros/science/usgs-eros-archive-earth-observing-one-eo-1-hyperion)
-      * [EO-1 data in GEE](https://developers.google.com/earth-engine/datasets/catalog/EO1_HYPERION)
-    * [Earth Surface Mineral Dust Source Investigation (EMIT), 2022-present](https://earth.jpl.nasa.gov/emit/)
+    * EO-1 [Hyperion](https://www.usgs.gov/centers/eros/science/usgs-eros-archive-earth-observing-one-eo-1-hyperion), 2001-2017
+      * [Hyperion data in GEE](https://developers.google.com/earth-engine/datasets/catalog/EO1_HYPERION)
+    * International Space Station [Earth Surface Mineral Dust Source Investigation (EMIT)](https://earth.jpl.nasa.gov/emit/), 2022-present
       * [EMIT data in GEE](https://developers.google.com/earth-engine/datasets/catalog/NASA_EMIT_L2A_RFL)
-    * [Plankton, Aerosol, Cloud, ocean Ecosystem (PACE), 2024-present](https://pace.oceansciences.org/)
+    * [Plankton, Aerosol, Cloud, ocean Ecosystem - Ocean Color Instrument (PACE OCI)](https://pace.oceansciences.org/), 2024-present
     * [Surface Biology & Geology (SBG), *proposed*](https://sbg.jpl.nasa.gov/)
   * NASA airborne missions
     * [Airborne Visible InfraRed Imaging Spectrometer (AVIRIS)](https://aviris.jpl.nasa.gov/)
@@ -72,6 +72,7 @@
   * [PACE: Terrestrial products overview slides (Dec. 2024)](https://pace.oceansciences.org/docs/03-c-Huemmrich_PACE_Terrestrial.pdf)
 * PACE Applications
   * [PACE: Applications workshop (Dec. 2024)](https://pace.oceansciences.org/event_archive/2024-PACE-Applications-Workshop.htm)
+* PACE events [page](https://pace.oceansciences.org/events.htm)
 * PACE Early Adopters / Applications Partners
   * [PACE: Early Adopters projects](https://pace.oceansciences.org/app_adopters.htm)
   * [PACE: UAH Early Adopters project](https://pace.oceansciences.org/people_ea.htm?id=127)
@@ -86,10 +87,10 @@
   * [Multispectral: Sentinel-2 MSI](https://bit.ly/s2_bands)
 
 ## *How can I process huge EO datasets in the cloud?* the Google Earth Engine (GEE) platform for EO cloud computing
-* [GEE Code Editor](https://code.earthengine.google.com/)
+* GEE [Code Editor](https://code.earthengine.google.com/)
   * [GEE registration link](https://earthengine.google.com/signup/)
   * [Instructions for GEE project registration](https://courses.spatialthoughts.com/gee-sign-up.html), via SpatialThoughts.com
-* [GEE tasks](https://code.earthengine.google.com/tasks)
+* GEE [tasks](https://code.earthengine.google.com/tasks)
 * Google Groups
   * [GEE Developers Google Group](https://groups.google.com/g/google-earth-engine-developers)
 * Data catalogs
@@ -103,6 +104,7 @@
   * [Tutorials from the community](https://developers.google.com/earth-engine/tutorials/community/explore)
 * Other resources
   * [JavaScript color guide](http://www.javascripter.net/faq/colornam.htm)
+  * [Git repositories on GEE](https://earthengine.googlesource.com/)
 * GEE apps
    * [Google's curated apps](https://www.earthengine.app/)
    * [BzGEO's published apps](https://bzgeo.users.earthengine.app/)
