@@ -4,8 +4,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/Linked-In-blue?style=flat-square)](https://www.linkedin.com/in/bzgeo/)
 [![Twitter Badge](https://img.shields.io/twitter/follow/BzGEO?style=social)](https://twitter.com/bzgeo)
 [![GitHub Badge](https://img.shields.io/github/followers/bzgeo?style=social)](https://github.com/bzgeo?tab=followers)
-[![GDE Badge](https://img.shields.io/badge/GDE-Earth%20Engine-orange)](https://g.dev/bzgeo)
-[![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/watch?v=cPfC1Cj2jLs&list=PL-xecztP0SNsVEftBhZNRVbPh5wwHKoAG)
+[![GDE Badge](https://img.shields.io/badge/GDE-Earth%20Engine-blue)](https://g.dev/bzgeo)
+[![YouTube Badge](https://img.shields.io/badge/My-YouTube-crimson)](https://www.youtube.com/watch?v=cPfC1Cj2jLs&list=PL-xecztP0SNsVEftBhZNRVbPh5wwHKoAG)
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bzgeo.bzgeo) -->
 
 ## Emil A. Cherrington, Ph.D.
