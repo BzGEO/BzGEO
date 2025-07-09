@@ -10,7 +10,7 @@
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-crimson)](https://www.youtube.com/watch?v=cPfC1Cj2jLs&list=PL-xecztP0SNsVEftBhZNRVbPh5wwHKoAG)
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bzgeo.bzgeo) -->
 
----
+
 
 My professional work blends *Earth observation (EO)* 🛰️ and *data science* 💻. While I've been dabbling in scientific coding for roughly a decade, starting with [R](https://cran.r-project.org/) and [Python](https://www.python.org/) in 2015, and moving to JavaScript for cloud computing with [Google Earth Engine 🌎 (GEE)](https://code.earthengine.google.com/) in 2017, I have been working professionally with EO and geospatial data since mid-2004. Over the years, I have applied EO and geospatial science specifically in the areas of land cover change detection, ecosystem monitoring, disaster response, and integrated water resource management, and I have supported the [SERVIR](https://science.nasa.gov/category/missions/servir/) program for the better part of the past twenty years. Most of the GitHub repos I am hosting ⬇️ are hence linked to [my work with SERVIR](https://www.nasa.gov/image-article/scientist-emil-cherrington/). I have worked with multispectral, thermal, hyperspectral, and synthetic aperture radar (SAR) data, and I was one of the editors of the 2019 [SERVIR SAR Handbook](https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/sar-handbook).
 
