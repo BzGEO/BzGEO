@@ -58,9 +58,9 @@
     * [VITALS (2025)](https://github.com/nasa/VITALS)
   * Giacomo Nodjoumi's [HyperSpectral Toolkit (2024)](https://github.com/Hyradus/HyperSpectralToolkit)
   * Wujietao's [Hyperspectral Detection Tools (2024)](https://github.com/wujietao233/Hyperspectral_Detection_Tools)
-  * SongYZ [Hyperspectral Imagery (HSI) Preprocessing Toolkit (2025)](https://github.com/songyz2019/hsi-preprocessing-toolkit)
+  * SongYZ's [Hyperspectral Imagery (HSI) Preprocessing Toolkit (2025)](https://github.com/songyz2019/hsi-preprocessing-toolkit)
   * Skye Caplan's [PACE tutorials (2025)](https://github.com/skyecaplan/pace_tutorials)
-  * BzGEO
+  * Emil Cherrington
     * [PACE OCI toolkit (2025)](https://github.com/BzGEO/pace_oci_toolkit)
       * [GEE code repo](https://bit.ly/gee_repo_pace_oci)
     * [Hyperspectral toolkit (2025)](https://github.com/BzGEO/hyperspectral_toolkit)
