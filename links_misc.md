@@ -12,17 +12,18 @@
 
 ## Social Media
 * [LinkedIn](https://www.linkedin.com/in/bzgeo/)
-* [BzGEO - Twitter](https://www.twitter.com/BZgeo)
-* [BzGEO - BlueSky](https://bsky.app/profile/bzgeo.bsky.social)
-* [BzGEO - Facebook group](https://www.facebook.com/groups/bzgeo)
+* BzGEO [Twitter](https://www.twitter.com/BZgeo)
+* BzGEO [BlueSky](https://bsky.app/profile/bzgeo.bsky.social)
+* BzGEO [Facebook group](https://www.facebook.com/groups/bzgeo)
 
 ## Communications
 * [GMail](https://mail.google.com/mail/)
-* [SVR MatterMost](https://chat.servirglobal.net)
+* SVR [MatterMost](https://chat.servirglobal.net)
 
 ## News
 * Global
     * [Google News](https://news.google.com/)
+    * [Yahoo! News](https://news.yahoo.com/)
 * Belize
     * [7 News BZ](https://www.7newsbelize.com/)
     * [Channel 5 News BZ](https://edition.channel5belize.com/)
