@@ -39,7 +39,7 @@
       * [Hyperion data in GEE](https://developers.google.com/earth-engine/datasets/catalog/EO1_HYPERION)
     * International Space Station [Earth Surface Mineral Dust Source Investigation (EMIT)](https://earth.jpl.nasa.gov/emit/), 2022-present
       * [EMIT data in GEE](https://developers.google.com/earth-engine/datasets/catalog/NASA_EMIT_L2A_RFL)
-    * [Plankton, Aerosol, Cloud, ocean Ecosystem - Ocean Color Instrument (PACE OCI)](https://pace.oceansciences.org/), 2024-present
+    * [Plankton, Aerosol, Cloud, ocean Ecosystem (PACE)](https://pace.oceansciences.org/), 2024-present
     * [Surface Biology & Geology (SBG), *proposed*](https://sbg.jpl.nasa.gov/)
   * NASA airborne missions
     * [Airborne Visible InfraRed Imaging Spectrometer (AVIRIS)](https://aviris.jpl.nasa.gov/)
@@ -118,7 +118,7 @@
    * [BzGEO's published apps](https://bzgeo.users.earthengine.app/)
    * [SERVIR-BZ's published apps](https://servirbz.users.earthengine.app/)
    * [BZ-SDG project's published apps](https://bz-sdg.earthengine.app/)
-* Resources from Google's Geo For Good (G4G) conferences
+* *Geo For Good (G4G) conference* resources
   * Geo For Good 2024
     * [G4G 2024: Sao Paulo](https://earthoutreachonair.withgoogle.com/events/geoforgood24-saopaulo)
     * [G4G 2024: Dublin](https://earthoutreachonair.withgoogle.com/events/geoforgood24-dublin)
@@ -132,16 +132,21 @@
 
 * NASA-related
   * [SERVIR Geo AI Working Group page](https://sites.google.com/uah.edu/geo-ai-working-group/home)
-  * [Course - NASA ARSET: Fundamentals of Machine Learning for Earth Science (2023)](https://appliedsciences.nasa.gov/get-involved/training/english/arset-fundamentals-machine-learning-earth-science)
+  * Course - [NASA ARSET: Fundamentals of Machine Learning for Earth Science (2023)](https://appliedsciences.nasa.gov/get-involved/training/english/arset-fundamentals-machine-learning-earth-science)
     * [Associated GitHub page](https://github.com/NASAARSET/ARSET_ML_Fundamentals)
 
 * Europe-related
   * [ML4Earth Slack channel](https://ml4earthworkspace.slack.com/team)
-  * [Course - EO College: Introduction to Machine Learning in Earth Observation MOOC (2024)](https://eo-college.org/courses/introduction-to-machine-learning-for-earth-observation/)
+  * Course - [EO College: Introduction to Machine Learning in Earth Observation MOOC (2024)](https://eo-college.org/courses/introduction-to-machine-learning-for-earth-observation/)
 
 * Esri
   * [Deep Learning GitHub page w/ installers](https://github.com/Esri/deep-learning-frameworks?tab=readme-ov-file)
   * [Deep learning models / packages](https://livingatlas.arcgis.com/en/browse/#d=1&type=tool&itemTypes=Deep+Learning+Package)
+    * Prithvi [foundational models](https://livingatlas.arcgis.com/en/browse/?q=prithvi#d=1&type=tool&itemTypes=Deep+Learning+Package&q=prithvi) from NASA and IBM
+      * Prithvi HLS: [Crop classification](https://www.arcgis.com/home/item.html?id=39e598cb9eed4f1eac28f8484c5f3679)
+      * Prithvi HLS: [Burn scar mapping](https://www.arcgis.com/home/item.html?id=9af7af28dd91473bbc8ad40942e74563)
+      * Prithvi HLS: [Flood mapping](https://www.arcgis.com/home/item.html?id=29dc90c33daf402caa9293c2088d1057)
+      * Prithvi WxC: [Weather And Climate Forecasting](https://www.arcgis.com/home/item.html?id=e5969e62295e4c7881b38ea16b565a2d)
   * [MyEsri.com](https://my.esri.com/)
 
 * EAC-related
