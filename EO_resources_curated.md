@@ -3,13 +3,13 @@
 *compiled by Emil A. Cherrington, Ph.D. | last updated: 9 July 2025*
 
 ## OVERVIEW: Key questions
-*- Where can I find data?*
+* *Where can I find data?*
 
-*- What's hyperspectral data all about?*
+* *What's hyperspectral data all about?*
 
-*- How can I process huge EO datasets in the cloud?* 
+* *How can I process huge EO datasets in the cloud?* 
 
-*- What does geospatial artificial intelligence (geo AI) entail?*
+* *What does geospatial artificial intelligence (geo AI) entail?*
 
 ## Portals and platforms for EO data
 * U.S. National Aeronautics & Space Administration (NASA)
@@ -147,7 +147,7 @@
       * Prithvi HLS: [Burn scar mapping](https://www.arcgis.com/home/item.html?id=9af7af28dd91473bbc8ad40942e74563)
       * Prithvi HLS: [Flood mapping](https://www.arcgis.com/home/item.html?id=29dc90c33daf402caa9293c2088d1057)
       * Prithvi WxC: [Weather And Climate Forecasting](https://www.arcgis.com/home/item.html?id=e5969e62295e4c7881b38ea16b565a2d)
-  * [MyEsri.com](https://my.esri.com/)
+  * [MyEsri.com](https://my.esri.com/) -> for downloading ArcGIS software
 
 * EAC-related
   * [Geospatial Machine Learning (geoML) master document](https://bit.ly/geoml)
