@@ -147,7 +147,7 @@
       * Prithvi HLS: [Burn scar mapping](https://www.arcgis.com/home/item.html?id=9af7af28dd91473bbc8ad40942e74563)
       * Prithvi HLS: [Flood mapping](https://www.arcgis.com/home/item.html?id=29dc90c33daf402caa9293c2088d1057)
       * Prithvi WxC: [Weather And Climate Forecasting](https://www.arcgis.com/home/item.html?id=e5969e62295e4c7881b38ea16b565a2d)
-  * [MyEsri.com](https://my.esri.com/) -> for downloading ArcGIS software
+  * [MyEsri.com](https://my.esri.com/) -> *for downloading ArcGIS software*
 
 * EAC-related
   * [Geospatial Machine Learning (geoML) master document](https://bit.ly/geoml)
