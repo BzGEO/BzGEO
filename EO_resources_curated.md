@@ -53,10 +53,10 @@
   * SongYZ [Hyperspectral Imagery (HSI) Preprocessing Toolkit (2025)](https://github.com/songyz2019/hsi-preprocessing-toolkit)
   * Skye Caplan's [PACE tutorials (2025)](https://github.com/skyecaplan/pace_tutorials)
   * BzGEO
-   * [PACE OCI toolkit (2025)](https://github.com/BzGEO/pace_oci_toolkit)
-     * [GEE code repo](https://bit.ly/gee_repo_pace_oci)
-   * [Hyperspectral toolkit (2025)](https://github.com/BzGEO/hyperspectral_toolkit)
-     * [GEE code repo](https://bit.ly/gee_repo_hyperspectral)
+    * [PACE OCI toolkit (2025)](https://github.com/BzGEO/pace_oci_toolkit)
+      * [GEE code repo](https://bit.ly/gee_repo_pace_oci)
+    * [Hyperspectral toolkit (2025)](https://github.com/BzGEO/hyperspectral_toolkit)
+      * [GEE code repo](https://bit.ly/gee_repo_hyperspectral)
 
 ## Spotlight: Hyperspectral data from NASA's PACE
 * [PACE mission page](https://pace.oceansciences.org/)
