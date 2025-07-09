@@ -18,8 +18,9 @@
   * [NASA ASF DAAC](https://search.asf.alaska.edu/#/) -> *data extraction / download*
   * [NASA AppEEARS](https://appeears.earthdatacloud.nasa.gov/) -> *data extraction / download*
 * U.S. Geological Survey (USGS)
-  * [USGS Glovis](https://glovis.usgs.gov/app) -> *visualization*
+  * [USGS Earth Explorer](https://earthexplorer.usgs.gov/) -> *data extraction / download*
   * [USGS ESPA](https://espa.cr.usgs.gov/) -> *data extraction / download*
+  * [USGS Glovis](https://glovis.usgs.gov/app) -> *visualization*
 * European Commission's Copernicus Programme + European Space Agency (ESA)
   * [Copernicus Browser](https://browser.dataspace.copernicus.eu/) -> *data extraction / download*
   * [Copernicus Land Monitoring Service](https://land.copernicus.eu/en) -> *data extraction / download*
@@ -125,6 +126,10 @@
 * Other resources
   * [JavaScript color guide](http://www.javascripter.net/faq/colornam.htm)
   * [Git repositories on GEE](https://earthengine.googlesource.com/)
+  * Google Developer Experts (GDEs)
+    * [GDE directory](https://developers.google.com/community/experts/directory)
+      * [GEE GDEs](https://developers.google.com/community/experts/directory?specialization=earth-engine)
+    * [Advocu](https://app.advocu.com/activities) -> *for GDE reporting*
 * GEE apps
    * [Google's curated apps](https://www.earthengine.app/)
    * [BzGEO's published apps](https://bzgeo.users.earthengine.app/)
