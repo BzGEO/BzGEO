@@ -1,3 +1,13 @@
+[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=DkrTBooAAAAJ&hl=en)
+[![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-brightgreen?style=flat-square)](https://www.researchgate.net/profile/Emil-Cherrington)
+[![ORCID Badge](https://img.shields.io/badge/ORCID-iD-green?style=flat-square)](https://orcid.org/0000-0003-0524-4744)
+[![LinkedIn Badge](https://img.shields.io/badge/Linked-In-blue?style=flat-square)](https://www.linkedin.com/in/bzgeo/)
+[![Twitter Badge](https://img.shields.io/twitter/follow/BzGEO?style=social)](https://twitter.com/bzgeo)
+[![GitHub Badge](https://img.shields.io/github/followers/bzgeo?style=social)](https://github.com/bzgeo?tab=followers)
+[![GDE Badge](https://img.shields.io/badge/GDE-Google%20Earth%20Engine-orange)](https://g.dev/bzgeo)
+[![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/watch?v=cPfC1Cj2jLs&list=PL-xecztP0SNsVEftBhZNRVbPh5wwHKoAG)
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bzgeo.bzgeo) -->
+
 ## Emil A. Cherrington, Ph.D.
 
 <!-- Here are some ideas to get you started:
