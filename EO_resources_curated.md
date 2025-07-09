@@ -20,7 +20,7 @@
 * Commercial
   * [Maxar Discover](https://discover.maxar.com/)
   * [Planet Explorer](https://www.planet.com/explorer/)
-    * View examples: [Planet Stories](https://www.planet.com/stories/)
+    * View cool examples: [Planet Stories](https://www.planet.com/stories/)
     * Get access: [Planet Education & Research Program application](https://www.planet.com/industries/education-and-research/#apply-now)
     * Get access: [NASA Commercial Satellite Data (CSDA) program](https://csdap.earthdata.nasa.gov/signup/)
 
