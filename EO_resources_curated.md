@@ -5,24 +5,24 @@
 ## *Where can I find data?* Portals and platforms for EO data
 
 * U.S. National Aeronautics & Space Administration (NASA)
-  * [NASA EOSDIS WorldView](https://worldview.earthdata.nasa.gov/)
-  * [NASA Giovanni](https://giovanni.gsfc.nasa.gov/giovanni/)
-  * [NASA EarthData Search](https://search.earthdata.nasa.gov/search)
-  * [NASA  OB.DAAC L3 / L4 browser](https://oceandata.sci.gsfc.nasa.gov/l3/)
-  * [NASA ASF DAAC](https://search.asf.alaska.edu/#/)
-  * [NASA AppEEARS](https://appeears.earthdatacloud.nasa.gov/)
+  * [NASA EOSDIS WorldView](https://worldview.earthdata.nasa.gov/) -> *visualization*
+  * [NASA Giovanni](https://giovanni.gsfc.nasa.gov/giovanni/) -> *time series analysis*
+  * [NASA EarthData Search](https://search.earthdata.nasa.gov/search) -> *data extraction / download*
+  * [NASA  OB.DAAC L3 / L4 browser](https://oceandata.sci.gsfc.nasa.gov/l3/) -> *data extraction / download*
+  * [NASA ASF DAAC](https://search.asf.alaska.edu/#/) -> *data extraction / download*
+  * [NASA AppEEARS](https://appeears.earthdatacloud.nasa.gov/) -> *data extraction / download*
 * U.S. Geological Survey (USGS)
-  * [USGS Glovis](https://glovis.usgs.gov/app)
-  * [USGS ESPA](https://espa.cr.usgs.gov/)
+  * [USGS Glovis](https://glovis.usgs.gov/app) -> *visualization*
+  * [USGS ESPA](https://espa.cr.usgs.gov/) -> *data extraction / download*
 * European Commission's Copernicus Programme + European Space Agency (ESA)
-  * [Copernicus Browser](https://browser.dataspace.copernicus.eu/)
-  * [Copernicus Land Monitoring Service](https://land.copernicus.eu/en)
+  * [Copernicus Browser](https://browser.dataspace.copernicus.eu/) -> *data extraction / download*
+  * [Copernicus Land Monitoring Service](https://land.copernicus.eu/en) -> *data extraction / download*
 * Commercial
-  * [Maxar Discover](https://discover.maxar.com/)
-  * [Planet Explorer](https://www.planet.com/explorer/)
-    * View cool examples: [Planet Stories](https://www.planet.com/stories/)
-    * Get access: [Planet Education & Research Program application](https://www.planet.com/industries/education-and-research/#apply-now)
-    * Get access: [NASA Commercial Satellite Data (CSDA) program](https://csdap.earthdata.nasa.gov/signup/)
+  * [Maxar Discover](https://discover.maxar.com/) -> *visualization*
+  * [Planet Explorer](https://www.planet.com/explorer/) -> *data extraction / download*
+    * View cool visualizations of Planet data: [Planet Stories](https://www.planet.com/stories/)
+    * Apply for access to Planet data: [Planet Education & Research Program application](https://www.planet.com/industries/education-and-research/#apply-now)
+    * Apply for access to Planet data: [NASA Commercial Satellite Data (CSDA) program](https://csdap.earthdata.nasa.gov/signup/)
 
 ## *What's hyperspectral all about?* Hyperspectral data resources
 * Missions
@@ -32,7 +32,7 @@
     * [Earth Surface Mineral Dust Source Investigation (EMIT), 2022-present](https://earth.jpl.nasa.gov/emit/)
       * [EMIT data in GEE](https://developers.google.com/earth-engine/datasets/catalog/NASA_EMIT_L2A_RFL)
     * [Plankton, Aerosol, Cloud, ocean Ecosystem (PACE), 2024-present](https://pace.oceansciences.org/)
-    * [Surface Biology & Geology (SBG), proposed](https://sbg.jpl.nasa.gov/)
+    * [Surface Biology & Geology (SBG), *proposed*](https://sbg.jpl.nasa.gov/)
   * NASA airborne missions
     * [Airborne Visible InfraRed Imaging Spectrometer (AVIRIS)](https://aviris.jpl.nasa.gov/)
       * [AVIRIS-NG data over NEON sites, in GEE](https://developers.google.com/earth-engine/datasets/catalog/projects_neon-prod-earthengine_assets_HSI_REFL_002)
@@ -62,8 +62,9 @@
 * [PACE mission page](https://pace.oceansciences.org/)
   * [Ocean Color Instrument (OCI)](https://pace.oceansciences.org/oci.htm)
 * Data access
-  * [NASA  OB.DAAC L3 / L4 browser](https://oceandata.sci.gsfc.nasa.gov/l3/)
-  * [NASA EarthData Search: PACE OCI](https://search.earthdata.nasa.gov/search?fi=OCI&as[platforms][0]=Space-based%20Platforms%3AEarth%20Observation%20Satellites%3A%3APACE&as[instrument][0]=OCI&fpb0=Space-based%20Platforms&fpc0=Earth%20Observation%20Satellites&fps0=PACE)
+  * View data in [NASA EOSDIS WorldView](https://go.nasa.gov/4kNDA1z) -> *example for 8 July 2025*
+  * Download data via the [NASA  OB.DAAC L3 / L4 browser](https://oceandata.sci.gsfc.nasa.gov/l3/)
+  * Download data via the [NASA EarthData Search](https://search.earthdata.nasa.gov/search?fi=OCI&as[platforms][0]=Space-based%20Platforms%3AEarth%20Observation%20Satellites%3A%3APACE&as[instrument][0]=OCI&fpb0=Space-based%20Platforms&fpc0=Earth%20Observation%20Satellites&fps0=PACE)
 * PACE data products
   * [PACE data products list](https://pace.oceansciences.org/data_table.htm)
     * [Data description: Surface reflectance](https://oceancolor.gsfc.nasa.gov/data/10.5067/PACE/OCI/L2/SFREFL/3.0)
@@ -100,23 +101,22 @@
     * [GEE code repository](https://earthengine.googlesource.com/projects/gee-edu/book)
   * [GEE Higher Education resources](https://developers.google.com/earth-engine/tutorials/edu)
   * [Tutorials from the community](https://developers.google.com/earth-engine/tutorials/community/explore)
+* Other resources
+  * [JavaScript color guide](http://www.javascripter.net/faq/colornam.htm)
 * GEE apps
    * [Google's curated apps](https://www.earthengine.app/)
    * [BzGEO's published apps](https://bzgeo.users.earthengine.app/)
    * [SERVIR-BZ's published apps](https://servirbz.users.earthengine.app/)
    * [BZ-SDG project's published apps](https://bz-sdg.earthengine.app/)
-* Other resources
-  * [Colors via JavaScripter](http://www.javascripter.net/faq/colornam.htm)
-
-## Google's Geo For Good (G4G) conferences
-* Geo For Good 2024
-  * [G4G 2024: Sao Paulo](https://earthoutreachonair.withgoogle.com/events/geoforgood24-saopaulo)
-  * [G4G 2024: Dublin](https://earthoutreachonair.withgoogle.com/events/geoforgood24-dublin)
-* [Colab Notebook - Soy mapping](https://colab.research.google.com/drive/1Iip9Li7ZguMxKUjZ4mbcg_q1EDyAvUB2)
-* AI-related slides
-   * [Vertex AI](https://docs.google.com/presentation/d/1eNJDIoJg-ADrxC09JIzl00frjyseEc917rItTDPalGI/edit#slide=id.g303d87bcffc_0_0)
-   * [Embeddings, part 1](https://docs.google.com/presentation/d/1ZfBYUNV1w377rkxc3REm5_evyzMJF6szxXGBszKC7uw/edit#slide=id.g3012811fd68_0_1316)
-   * [Embeddings, part 2](https://docs.google.com/presentation/d/1azsWfeDuC-ZF5L8LNuWAEe49UOsxC-pPvqyZvSvJThk/edit#slide=id.g303d69aca51_0_197)
+* Resources from Google's Geo For Good (G4G) conferences
+  * Geo For Good 2024
+    * [G4G 2024: Sao Paulo](https://earthoutreachonair.withgoogle.com/events/geoforgood24-saopaulo)
+    * [G4G 2024: Dublin](https://earthoutreachonair.withgoogle.com/events/geoforgood24-dublin)
+  * [Colab Notebook - Soy mapping](https://colab.research.google.com/drive/1Iip9Li7ZguMxKUjZ4mbcg_q1EDyAvUB2)
+  * AI-related slides
+    * [Vertex AI](https://docs.google.com/presentation/d/1eNJDIoJg-ADrxC09JIzl00frjyseEc917rItTDPalGI/edit#slide=id.g303d87bcffc_0_0)
+    * [Embeddings, part 1](https://docs.google.com/presentation/d/1ZfBYUNV1w377rkxc3REm5_evyzMJF6szxXGBszKC7uw/edit#slide=id.g3012811fd68_0_1316)
+    * [Embeddings, part 2](https://docs.google.com/presentation/d/1azsWfeDuC-ZF5L8LNuWAEe49UOsxC-pPvqyZvSvJThk/edit#slide=id.g303d69aca51_0_197)
  
 ## *What's this geospatial artificial intelligence (geo AI) stuff all about?* Select geo AI resources
 
@@ -135,7 +135,7 @@
   * [MyEsri.com](https://my.esri.com/)
 
 * EAC-related
-  * [GeoML master document](https://bit.ly/geoml)
+  * [Geospatial Machine Learning (geoML) master document](https://bit.ly/geoml)
   * [Deep learning experiment runs](https://bit.ly/geoml_mod_comp)
   * [Deep learning on-ramp presentation slides](https://docs.google.com/presentation/d/1e9h_LQrSyL5oriFHUMxsVyWulQ1ReO1S/edit#slide=id.p1)
     * [Deep learning on-ramp presentation recording (Oct. 2024 version)](https://www.youtube.com/watch?v=H-iAVLtkV0c)
