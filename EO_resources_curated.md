@@ -3,11 +3,11 @@
 *compiled by Emil A. Cherrington, Ph.D. | last updated: 9 July 2025*
 
 ## OVERVIEW: Key questions
-* *Where can I find satellite data?*
-* *What's hyperspectral data all about?*
-* *Where can I find software for processing satellite data?*
-* *How can I process huge EO datasets in the cloud?* 
-* *What does geospatial artificial intelligence (geo AI) entail?*
+* *WHERE can I find satellite data?*
+* *WHAT is hyperspectral data all about?*
+* *WHERE can I find software for processing satellite data?*
+* *HOW can I process huge EO datasets in the cloud?* 
+* *WHAT does geospatial artificial intelligence (geo AI) entail?*
 
 ## Portals and platforms for EO data
 * U.S. National Aeronautics & Space Administration (NASA)
