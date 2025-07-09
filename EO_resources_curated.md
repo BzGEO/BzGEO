@@ -2,7 +2,7 @@
 
 *compiled by Emil A. Cherrington, Ph.D. | last updated: 9 July 2025*
 
-## Portals and platforms for EO data
+## *Where can I find data?* Portals and platforms for EO data
 
 * U.S. National Aeronautics & Space Administration (NASA)
   * [NASA EOSDIS WorldView](https://worldview.earthdata.nasa.gov/)
@@ -20,19 +20,24 @@
 * Commercial
   * [Maxar Discover](https://discover.maxar.com/)
   * [Planet Explorer](https://www.planet.com/explorer/)
-    * [Planet Education & Research Program application](https://www.planet.com/industries/education-and-research/#apply-now)
+    * View examples: [Planet Stories](https://www.planet.com/stories/)
+    * Get access: [Planet Education & Research Program application](https://www.planet.com/industries/education-and-research/#apply-now)
+    * Get access: [NASA Commercial Satellite Data (CSDA) program](https://csdap.earthdata.nasa.gov/signup/)
 
-## Hyperspectral data resources
+## *What's hyperspectral all about?* Hyperspectral data resources
 * Missions
-  * NASA missions
+  * NASA spaceborne (i.e., satellite) missions
     * [EO-1 Hyperion, 2001-2017](https://www.usgs.gov/centers/eros/science/usgs-eros-archive-earth-observing-one-eo-1-hyperion)
       * [EO-1 data in GEE](https://developers.google.com/earth-engine/datasets/catalog/EO1_HYPERION)
     * [Earth Surface Mineral Dust Source Investigation (EMIT), 2022-present](https://earth.jpl.nasa.gov/emit/)
       * [EMIT data in GEE](https://developers.google.com/earth-engine/datasets/catalog/NASA_EMIT_L2A_RFL)
     * [Plankton, Aerosol, Cloud, ocean Ecosystem (PACE), 2024-present](https://pace.oceansciences.org/)
     * [Surface Biology & Geology (SBG), proposed](https://sbg.jpl.nasa.gov/)
+  * NASA airborne missions
+    * [Airborne Visible InfraRed Imaging Spectrometer (AVIRIS)](https://aviris.jpl.nasa.gov/)
+      * [AVIRIS-NG data over NEON sites, in GEE](https://developers.google.com/earth-engine/datasets/catalog/projects_neon-prod-earthengine_assets_HSI_REFL_002)
   * EOportal.org [hyperspectral mission list](https://www.eoportal.org/other-space-activities/hyperspectral-imaging)
-* GitHub code repositories (*not exhaustive*)
+* **GitHub code repositories** (*not exhaustive*)
   * Brian Bue et al.'s [Hyperspectral Image Interactive Holistic Analysis Toolkit, HiiHAT (2011)](https://github.com/dsmbgu8/HiiHAT)
   * GatorSense Hyperspectral Image Analysis Toolkit
     * [Matlab implementation (2018)](https://github.com/GatorSense/hsi_toolkit)
@@ -61,9 +66,9 @@
   * [NASA EarthData Search: PACE OCI](https://search.earthdata.nasa.gov/search?fi=OCI&as[platforms][0]=Space-based%20Platforms%3AEarth%20Observation%20Satellites%3A%3APACE&as[instrument][0]=OCI&fpb0=Space-based%20Platforms&fpc0=Earth%20Observation%20Satellites&fps0=PACE)
 * PACE data products
   * [PACE data products list](https://pace.oceansciences.org/data_table.htm)
-  * [Data description: Surface reflectance](https://oceancolor.gsfc.nasa.gov/data/10.5067/PACE/OCI/L2/SFREFL/3.0)
-  * [Data description: Land Vegetation Indices (LandVI)](https://oceancolor.gsfc.nasa.gov/data/10.5067/PACE/OCI/L2/LANDVI/3.0)
-  * [PACE: Terrestrial products slides (Dec. 2024)](https://pace.oceansciences.org/docs/03-c-Huemmrich_PACE_Terrestrial.pdf)
+    * [Data description: Surface reflectance](https://oceancolor.gsfc.nasa.gov/data/10.5067/PACE/OCI/L2/SFREFL/3.0)
+    * [Data description: Land Vegetation Indices (LandVI)](https://oceancolor.gsfc.nasa.gov/data/10.5067/PACE/OCI/L2/LANDVI/3.0)
+  * [PACE: Terrestrial products overview slides (Dec. 2024)](https://pace.oceansciences.org/docs/03-c-Huemmrich_PACE_Terrestrial.pdf)
 * PACE Applications
   * [PACE: Applications workshop (Dec. 2024)](https://pace.oceansciences.org/event_archive/2024-PACE-Applications-Workshop.htm)
 * PACE Early Adopters / Applications Partners
@@ -79,7 +84,7 @@
   * [Multispectral: Landsat TM / ETM+ / OLI / OLI2](https://bit.ly/landsat_bands)
   * [Multispectral: Sentinel-2 MSI](https://bit.ly/s2_bands)
 
-## EO cloud computing: the Google Earth Engine (#GEE) platform
+## *How can I process huge EO datasets in the cloud?* the Google Earth Engine (GEE) platform for EO cloud computing
 * [GEE Code Editor](https://code.earthengine.google.com/)
   * [GEE registration link](https://earthengine.google.com/signup/)
   * [Instructions for GEE project registration](https://courses.spatialthoughts.com/gee-sign-up.html), via SpatialThoughts.com
@@ -91,8 +96,8 @@
   * [Awesome GEE community catalog](https://gee-community-catalog.org/)
 * GEE tutorials, etc.
   * [Book: EE Fundamentals & Applications (2022)](https://www.eefabook.org/)
-   * [Accompanying videos](https://www.youtube.com/@eefabook3667/videos)
-   * [Accompanying GEE code repository](https://earthengine.googlesource.com/projects/gee-edu/book)
+    * [Videos](https://www.youtube.com/@eefabook3667/videos)
+    * [GEE code repository](https://earthengine.googlesource.com/projects/gee-edu/book)
   * [GEE Higher Education resources](https://developers.google.com/earth-engine/tutorials/edu)
   * [Tutorials from the community](https://developers.google.com/earth-engine/tutorials/community/explore)
 * GEE apps
@@ -107,13 +112,13 @@
 * Geo For Good 2024
   * [G4G 2024: Sao Paulo](https://earthoutreachonair.withgoogle.com/events/geoforgood24-saopaulo)
   * [G4G 2024: Dublin](https://earthoutreachonair.withgoogle.com/events/geoforgood24-dublin)
-  * [Colab Notebook - Soy mapping](https://colab.research.google.com/drive/1Iip9Li7ZguMxKUjZ4mbcg_q1EDyAvUB2)
-  * Slides
-    * [Vertex AI](https://docs.google.com/presentation/d/1eNJDIoJg-ADrxC09JIzl00frjyseEc917rItTDPalGI/edit#slide=id.g303d87bcffc_0_0)
-    * [Embeddings, part 1](https://docs.google.com/presentation/d/1ZfBYUNV1w377rkxc3REm5_evyzMJF6szxXGBszKC7uw/edit#slide=id.g3012811fd68_0_1316)
-    * [Embeddings, part 2](https://docs.google.com/presentation/d/1azsWfeDuC-ZF5L8LNuWAEe49UOsxC-pPvqyZvSvJThk/edit#slide=id.g303d69aca51_0_197)
+* [Colab Notebook - Soy mapping](https://colab.research.google.com/drive/1Iip9Li7ZguMxKUjZ4mbcg_q1EDyAvUB2)
+* AI-related slides
+   * [Vertex AI](https://docs.google.com/presentation/d/1eNJDIoJg-ADrxC09JIzl00frjyseEc917rItTDPalGI/edit#slide=id.g303d87bcffc_0_0)
+   * [Embeddings, part 1](https://docs.google.com/presentation/d/1ZfBYUNV1w377rkxc3REm5_evyzMJF6szxXGBszKC7uw/edit#slide=id.g3012811fd68_0_1316)
+   * [Embeddings, part 2](https://docs.google.com/presentation/d/1azsWfeDuC-ZF5L8LNuWAEe49UOsxC-pPvqyZvSvJThk/edit#slide=id.g303d69aca51_0_197)
  
-## Geospatial Machine Learning (#GeoML)
+## *What's this geospatial artificial intelligence (geo AI) stuff all about?* Select geo AI resources
 
 * NASA-related
   * [SERVIR Geo AI Working Group page](https://sites.google.com/uah.edu/geo-ai-working-group/home)
@@ -130,7 +135,7 @@
   * [MyEsri.com](https://my.esri.com/)
 
 * EAC-related
-  * [GeoML doc](https://bit.ly/geoml)
+  * [GeoML master document](https://bit.ly/geoml)
   * [Deep learning experiment runs](https://bit.ly/geoml_mod_comp)
   * [Deep learning on-ramp presentation slides](https://docs.google.com/presentation/d/1e9h_LQrSyL5oriFHUMxsVyWulQ1ReO1S/edit#slide=id.p1)
     * [Deep learning on-ramp presentation recording (Oct. 2024 version)](https://www.youtube.com/watch?v=H-iAVLtkV0c)
