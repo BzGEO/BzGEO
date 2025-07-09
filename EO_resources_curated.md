@@ -3,12 +3,10 @@
 *compiled by Emil A. Cherrington, Ph.D. | last updated: 9 July 2025*
 
 ## OVERVIEW: Key questions
-* *Where can I find data?*
-
+* *Where can I find satellite data?*
 * *What's hyperspectral data all about?*
-
+* *Where can I find software for processing satellite data?*
 * *How can I process huge EO datasets in the cloud?* 
-
 * *What does geospatial artificial intelligence (geo AI) entail?*
 
 ## Portals and platforms for EO data
@@ -83,8 +81,8 @@
 * PACE events [page](https://pace.oceansciences.org/events.htm)
 * PACE Early Adopters / Applications Partners
   * [PACE: Early Adopters projects](https://pace.oceansciences.org/app_adopters.htm)
-  * [PACE: UAH Early Adopters project](https://pace.oceansciences.org/people_ea.htm?id=127)
-    * [PACE: Early Adopters projects application form](https://forms.gle/ZxUeqDJDZu47SEzD8)
+    * PACE: Early Adopters [UAH project](https://pace.oceansciences.org/people_ea.htm?id=127)
+    * PACE: Early Adopters projects [application form](https://forms.gle/ZxUeqDJDZu47SEzD8)
 * Calendars for products
   * [8-day calendar](https://bit.ly/pace_oci_8d_cal)
   * [Julian day calendar (non-leap year)](https://satcorps.larc.nasa.gov/safari/JulianDayChart.html)
@@ -93,6 +91,20 @@
   * [Hyperspectral: ISS EMIT](https://bit.ly/iss_emit_bands)
   * [Multispectral: Landsat TM / ETM+ / OLI / OLI2](https://bit.ly/landsat_bands)
   * [Multispectral: Sentinel-2 MSI](https://bit.ly/s2_bands)
+
+## Desktop software programs
+* GUI-based
+  * Clark University's TerrSet [installers](https://github.com/ClarkCGA/terrset/releases)
+  * ESA's SNAP [installers](https://step.esa.int/main/download/snap-download/)
+  * NASA's SeaDAS [installers](https://seadas.gsfc.nasa.gov/downloads/) -> *based on SNAP*
+  * Quantum GIS (QGIS) [installers](https://qgis.org/download/)
+* Programming-based
+  * Anaconda [installers](https://www.anaconda.com/download)
+  * R installers
+    * [Linux](https://cran.r-project.org/bin/linux/)
+    * [MacOS](https://cran.r-project.org/bin/macosx/)
+    * [Windows](https://cran.r-project.org/bin/windows/)
+  * R Studio desktop [installers](https://posit.co/download/rstudio-desktop/)
 
 ## the Google Earth Engine (GEE) platform for EO cloud computing
 * GEE [Code Editor](https://code.earthengine.google.com/)
