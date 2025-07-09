@@ -165,4 +165,4 @@
   * [Geospatial Machine Learning (geoML) master document](https://bit.ly/geoml)
   * [Deep learning experiment runs](https://bit.ly/geoml_mod_comp)
   * [Deep learning on-ramp presentation slides](https://docs.google.com/presentation/d/1e9h_LQrSyL5oriFHUMxsVyWulQ1ReO1S/edit#slide=id.p1)
-    * [Deep learning on-ramp presentation recording (Oct. 2024 version)](https://www.youtube.com/watch?v=H-iAVLtkV0c)
+    * [Deep learning on-ramp presentation recording](https://www.youtube.com/watch?v=H-iAVLtkV0c) (Oct. 2024 version)
