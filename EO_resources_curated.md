@@ -40,7 +40,7 @@
     * International Space Station [Earth Surface Mineral Dust Source Investigation (EMIT)](https://earth.jpl.nasa.gov/emit/), 2022-present
       * [EMIT data in GEE](https://developers.google.com/earth-engine/datasets/catalog/NASA_EMIT_L2A_RFL)
     * [Plankton, Aerosol, Cloud, ocean Ecosystem (PACE)](https://pace.oceansciences.org/), 2024-present
-    * [Surface Biology & Geology (SBG), *proposed*](https://sbg.jpl.nasa.gov/)
+    * [Surface Biology & Geology (SBG)](https://sbg.jpl.nasa.gov/), *proposed*
   * NASA airborne missions
     * [Airborne Visible InfraRed Imaging Spectrometer (AVIRIS)](https://aviris.jpl.nasa.gov/)
       * [AVIRIS-NG data over NEON sites, in GEE](https://developers.google.com/earth-engine/datasets/catalog/projects_neon-prod-earthengine_assets_HSI_REFL_002)
