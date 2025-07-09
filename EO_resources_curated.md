@@ -2,8 +2,16 @@
 
 *compiled by Emil A. Cherrington, Ph.D. | last updated: 9 July 2025*
 
-## *Where can I find data?* Portals and platforms for EO data
+## Key questions
+*Where can I find data?*
 
+*What's hyperspectral data all about?*
+
+*How can I process huge EO datasets in the cloud?* 
+
+*What does geospatial artificial intelligence (geo AI) entail?*
+
+## Portals and platforms for EO data
 * U.S. National Aeronautics & Space Administration (NASA)
   * [NASA EOSDIS WorldView](https://worldview.earthdata.nasa.gov/) -> *visualization*
   * [NASA Giovanni](https://giovanni.gsfc.nasa.gov/giovanni/) -> *time series analysis*
@@ -24,7 +32,7 @@
     * Apply for access to Planet data: [Planet Education & Research Program application](https://www.planet.com/industries/education-and-research/#apply-now)
     * Apply for access to Planet data: [NASA Commercial Satellite Data (CSDA) program](https://csdap.earthdata.nasa.gov/signup/)
 
-## *What's hyperspectral all about?* Hyperspectral data resources
+## Hyperspectral data resources
 * Missions
   * NASA spaceborne (i.e., satellite) missions
     * EO-1 [Hyperion](https://www.usgs.gov/centers/eros/science/usgs-eros-archive-earth-observing-one-eo-1-hyperion), 2001-2017
@@ -86,7 +94,7 @@
   * [Multispectral: Landsat TM / ETM+ / OLI / OLI2](https://bit.ly/landsat_bands)
   * [Multispectral: Sentinel-2 MSI](https://bit.ly/s2_bands)
 
-## *How can I process huge EO datasets in the cloud?* the Google Earth Engine (GEE) platform for EO cloud computing
+## the Google Earth Engine (GEE) platform for EO cloud computing
 * GEE [Code Editor](https://code.earthengine.google.com/)
   * [GEE registration link](https://earthengine.google.com/signup/)
   * [Instructions for GEE project registration](https://courses.spatialthoughts.com/gee-sign-up.html), via SpatialThoughts.com
@@ -97,9 +105,9 @@
   * [GEE public catalog](https://developers.google.com/earth-engine/datasets)
   * [Awesome GEE community catalog](https://gee-community-catalog.org/)
 * GEE tutorials, etc.
-  * [Book: EE Fundamentals & Applications (2022)](https://www.eefabook.org/)
+  * [Book: EE Fundamentals & Applications (EEFA), 2022](https://www.eefabook.org/)
     * [Videos](https://www.youtube.com/@eefabook3667/videos)
-    * [GEE code repository](https://earthengine.googlesource.com/projects/gee-edu/book)
+    * [EEFA book GEE code repository](https://earthengine.googlesource.com/projects/gee-edu/book)
   * [GEE Higher Education resources](https://developers.google.com/earth-engine/tutorials/edu)
   * [Tutorials from the community](https://developers.google.com/earth-engine/tutorials/community/explore)
 * Other resources
@@ -120,7 +128,7 @@
     * [Embeddings, part 1](https://docs.google.com/presentation/d/1ZfBYUNV1w377rkxc3REm5_evyzMJF6szxXGBszKC7uw/edit#slide=id.g3012811fd68_0_1316)
     * [Embeddings, part 2](https://docs.google.com/presentation/d/1azsWfeDuC-ZF5L8LNuWAEe49UOsxC-pPvqyZvSvJThk/edit#slide=id.g303d69aca51_0_197)
  
-## *What's this geospatial artificial intelligence (geo AI) stuff all about?* Select geo AI resources
+## Select geospatial AI resources
 
 * NASA-related
   * [SERVIR Geo AI Working Group page](https://sites.google.com/uah.edu/geo-ai-working-group/home)
