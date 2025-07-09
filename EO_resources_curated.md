@@ -10,31 +10,41 @@
   * [NASA EarthData Search](https://search.earthdata.nasa.gov/search)
   * [NASA  OB.DAAC L3 / L4 browser](https://oceandata.sci.gsfc.nasa.gov/l3/)
   * [NASA ASF DAAC](https://search.asf.alaska.edu/#/)
+  * [NASA AppEEARS](https://appeears.earthdatacloud.nasa.gov/)
 * United States Geological Survey (USGS)
   * [USGS Glovis](https://glovis.usgs.gov/app)
   * [USGS ESPA](https://espa.cr.usgs.gov/)
-* European
+* European Commission's Copernicus Programme + European Space Agency (ESA)
   * [Copernicus Browser](https://browser.dataspace.copernicus.eu/)
+  * [Copernicus Land Monitoring Service](https://land.copernicus.eu/en)
 * Commercial
   * [Maxar Discover](https://discover.maxar.com/)
   * [Planet Explorer](https://www.planet.com/explorer/)
+    * [Planet Education & Research Program application](https://www.planet.com/industries/education-and-research/#apply-now)
 
 ## Hyperspectral data resources
 * Missions
   * NASA missions
-    * []()
-    * []()
-    * []()
+    * [EO-1 Hyperion, 2001-2017](https://www.usgs.gov/centers/eros/science/usgs-eros-archive-earth-observing-one-eo-1-hyperion)
+      * [EO-1 data in GEE](https://developers.google.com/earth-engine/datasets/catalog/EO1_HYPERION)
+    * [Earth Surface Mineral Dust Source Investigation (EMIT), 2022-present](https://earth.jpl.nasa.gov/emit/)
+      * [EMIT data in GEE](https://developers.google.com/earth-engine/datasets/catalog/NASA_EMIT_L2A_RFL)
+    * [Plankton, Aerosol, Cloud, ocean Ecosystem (PACE), 2024-present](https://pace.oceansciences.org/)
+    * [Surface Biology & Geology (SBG), proposed](https://sbg.jpl.nasa.gov/)
+  * EOportal.org [hyperspectral mission list](https://www.eoportal.org/other-space-activities/hyperspectral-imaging)
 * GitHub code repositories
-  * [BzGEO's PACE OCI toolkit]()
-  * []()
-  * [BzGEO's Hyperspectral toolkit]()
-  * []()
+  * [BzGEO's PACE OCI toolkit (2025)](https://github.com/BzGEO/pace_oci_toolkit)
+    * [GEE code repo](https://bit.ly/gee_repo_pace_oci)
+  * [BzGEO's Hyperspectral toolkit (2025)](https://github.com/BzGEO/hyperspectral_toolkit)
+    * [GEE code repo](https://bit.ly/gee_repo_hyperspectral)
   * []()
 
-## Hyperspectral data from NASA's Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) mission
+## Spotlight: Hyperspectral data from NASA's PACE
 * [PACE mission page](https://pace.oceansciences.org/)
-* [NASA  OB.DAAC L3 / L4 browser](https://oceandata.sci.gsfc.nasa.gov/l3/)
+  * [Ocean Color Instrument (OCI)](https://pace.oceansciences.org/oci.htm)
+* Data access
+  * [NASA  OB.DAAC L3 / L4 browser](https://oceandata.sci.gsfc.nasa.gov/l3/)
+  * [NASA EarthData Search: PACE OCI](https://search.earthdata.nasa.gov/search?fi=OCI&as[platforms][0]=Space-based%20Platforms%3AEarth%20Observation%20Satellites%3A%3APACE&as[instrument][0]=OCI&fpb0=Space-based%20Platforms&fpc0=Earth%20Observation%20Satellites&fps0=PACE)
 * PACE data products
   * [PACE data products list](https://pace.oceansciences.org/data_table.htm)
   * [Data description: Surface reflectance](https://oceancolor.gsfc.nasa.gov/data/10.5067/PACE/OCI/L2/SFREFL/3.0)
@@ -48,6 +58,7 @@
     * [PACE: Early Adopters projects application form](https://forms.gle/ZxUeqDJDZu47SEzD8)
 * Calendars for products
   * [8-day calendar](https://bit.ly/pace_oci_8d_cal)
+  * [Julian day calendar (non-leap year)](https://satcorps.larc.nasa.gov/safari/JulianDayChart.html)
 * Spectral bands from various multispectral and hyperspectral platforms
   * [Hyperspectral: PACE OCI (SFREFL, v3)](https://bit.ly/pace_oci_sr_v3_bands)
   * [Hyperspectral: ISS EMIT](https://bit.ly/iss_emit_bands)
