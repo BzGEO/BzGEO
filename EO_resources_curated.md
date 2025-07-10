@@ -80,6 +80,9 @@
 * PACE Applications
   * [PACE: Applications workshop (Dec. 2024)](https://pace.oceansciences.org/event_archive/2024-PACE-Applications-Workshop.htm)
 * PACE events [page](https://pace.oceansciences.org/events.htm)
+* [PACE Land data Users' Group (PLUG)](https://pace.oceansciences.org/events_more.htm?id=74)
+  * 1st PLUG meeting (15.04.2025): [recording](https://www.youtube.com/watch?v=7U1FBZyB-dk)
+  * 2nd PLUG meeting (01.07.2025): [recording](https://www.youtube.com/watch?v=hOu8rPd_x6I)
 * PACE Early Adopters / Applications Partners
   * [PACE: Early Adopters projects](https://pace.oceansciences.org/app_adopters.htm)
     * PACE: Early Adopters [UAH project](https://pace.oceansciences.org/people_ea.htm?id=127)
