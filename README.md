@@ -1,15 +1,16 @@
 ## Emil A. Cherrington, Ph.D.
 
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=DkrTBooAAAAJ&hl=en)
-[![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-brightgreen?style=flat-square)](https://www.researchgate.net/profile/Emil-Cherrington)
+[![ResearchGate Badge](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Emil-Cherrington)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0524--4744-blue?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-0524-4744)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BzGEO-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bzgeo/)
 [![Twitter Badge](https://img.shields.io/twitter/follow/BzGEO?style=social)](https://twitter.com/bzgeo)
 [![GitHub Badge](https://img.shields.io/badge/-@BzGEO-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/bzgeo)
-[![GitHub Badge](https://img.shields.io/github/followers/bzgeo?style=social)](https://github.com/bzgeo?tab=followers)
 [![GDE Badge](https://img.shields.io/badge/GDE-Earth%20Engine-blue)](https://g.dev/bzgeo)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-crimson)](https://www.youtube.com/watch?v=cPfC1Cj2jLs&list=PL-xecztP0SNsVEftBhZNRVbPh5wwHKoAG)
+
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bzgeo.bzgeo) -->
+<!--[![GitHub Badge](https://img.shields.io/github/followers/bzgeo?style=social)](https://github.com/bzgeo?tab=followers)-->
 
 
 
