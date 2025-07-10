@@ -2,7 +2,7 @@
 
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=DkrTBooAAAAJ&hl=en)
 [![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-brightgreen?style=flat-square)](https://www.researchgate.net/profile/Emil-Cherrington)
-[![ORCID Badge](https://img.shields.io/badge/ORCID-iD-green?style=flat-square)](https://orcid.org/0000-0003-0524-4744)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0524--4744-blue?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-0524-4744)
 [![LinkedIn Badge](https://img.shields.io/badge/Linked-In-blue?style=flat-square)](https://www.linkedin.com/in/bzgeo/)
 [![Twitter Badge](https://img.shields.io/twitter/follow/BzGEO?style=social)](https://twitter.com/bzgeo)
 [![GitHub Badge](https://img.shields.io/github/followers/bzgeo?style=social)](https://github.com/bzgeo?tab=followers)
