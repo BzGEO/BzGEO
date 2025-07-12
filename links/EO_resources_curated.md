@@ -1,6 +1,7 @@
 # Earth Observation (#EO) resources: a curated list
+[![Update](https://img.shields.io/github/last-commit/bzgeo/bzgeo?label=last%20updated&style=flat-square)](https://github.com/BzGEO/BzGEO/edit/main/links/EO_resources_curated.md)
 
-*compiled by Emil A. Cherrington, Ph.D. | last updated: 9 July 2025*
+*compiled by Emil A. Cherrington, Ph.D.*
 
 ## OVERVIEW: Key questions
 * *WHERE can I find satellite data?*
@@ -30,6 +31,7 @@
     * View cool visualizations of Planet data: [Planet Stories](https://www.planet.com/stories/)
     * Apply for access to Planet data: [Planet Education & Research Program application](https://www.planet.com/industries/education-and-research/#apply-now)
     * Apply for access to Planet data: [NASA Commercial Satellite Data (CSDA) program](https://csdap.earthdata.nasa.gov/signup/)
+    * Planet Dove / SuperDove band [specifications](https://docs.planet.com/data/imagery/planetscope/)
 
 ## Hyperspectral data resources
 * Missions
