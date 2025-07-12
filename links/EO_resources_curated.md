@@ -32,6 +32,8 @@
     * Apply for access to Planet data: [Planet Education & Research Program application](https://www.planet.com/industries/education-and-research/#apply-now)
     * Apply for access to Planet data: [NASA Commercial Satellite Data (CSDA) program](https://csdap.earthdata.nasa.gov/signup/)
     * Planet Dove + SuperDove band [specifications](https://docs.planet.com/data/imagery/planetscope/)
+      * Dove Classic + Dove-R: VNIR (blue, green, red, NIR)
+      * Super Dove (coastal blue, blue, green I, green, yellow, red, red edge, NIR)
 
 ## Hyperspectral data resources
 * Missions
