@@ -8,6 +8,7 @@
 [![GitHub Badge](https://img.shields.io/badge/-@BzGEO-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/bzgeo)
 [![GDE Badge](https://img.shields.io/badge/GDE-Earth%20Engine-blue)](https://g.dev/bzgeo)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-crimson)](https://www.youtube.com/watch?v=cPfC1Cj2jLs&list=PL-xecztP0SNsVEftBhZNRVbPh5wwHKoAG)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bzgeo.bzgeo)
 [![Update](https://img.shields.io/github/last-commit/bzgeo/bzgeo?label=profile%20updated&style=flat-square)](https://github.com/bzgeo)
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bzgeo.bzgeo) -->
 <!--[![GitHub Badge](https://img.shields.io/github/followers/bzgeo?style=social)](https://github.com/bzgeo?tab=followers)-->
