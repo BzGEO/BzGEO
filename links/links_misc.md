@@ -1,6 +1,8 @@
 # Miscelleneous frequently used links
 
-## General frequently used links
+<details>
+  <summary><b>General frequently used links</b></summary>
+
 * [Bitly](https://bitly.com/) -> *link shortening*
 * [ImgFlip](https://imgflip.com/memetemplates) -> *meme generation*
 * Google
@@ -10,17 +12,31 @@
   * [Google Maps](https://www.google.com/maps/)
   * [Google Photos](https://photos.google.com/)
 
-## Social Media
+</details>
+
+<details>
+  <summary><b>Social Media</b></summary>
+ 
 * [LinkedIn](https://www.linkedin.com/in/bzgeo/)
 * BzGEO [Twitter](https://www.twitter.com/BZgeo)
 * BzGEO [BlueSky](https://bsky.app/profile/bzgeo.bsky.social)
 * BzGEO [Facebook group](https://www.facebook.com/groups/bzgeo)
 
-## Communications
+</details>
+
+
+<details>
+  <summary><b>Communications</b></summary>
+
 * [GMail](https://mail.google.com/mail/)
 * SVR [MatterMost](https://chat.servirglobal.net)
 
-## News
+</details>
+
+
+<details>
+  <summary><b>News</b></summary>
+ 
 * Global
     * [Google News](https://news.google.com/)
     * [Yahoo! News](https://news.yahoo.com/)
@@ -28,3 +44,5 @@
     * [7 News BZ](https://www.7newsbelize.com/)
     * [Channel 5 News BZ](https://edition.channel5belize.com/)
     * [Amandala](https://amandala.com.bz/news/)
+
+</details>
