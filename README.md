@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BzGEO-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bzgeo/)
 [![Twitter Badge](https://img.shields.io/twitter/follow/BzGEO?style=social)](https://twitter.com/bzgeo)
 [![GitHub Badge](https://img.shields.io/badge/-@BzGEO-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/bzgeo)
-[![GDE Badge](https://img.shields.io/badge/GDE-Earth%20Engine-blue)](https://g.dev/bzgeo)
+[![GDE Badge](https://img.shields.io/badge/GDE%20(former)-Earth%20Engine-blue)](https://g.dev/bzgeo)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-crimson)](https://www.youtube.com/watch?v=cPfC1Cj2jLs&list=PL-xecztP0SNsVEftBhZNRVbPh5wwHKoAG)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bzgeo.bzgeo)
 [![Update](https://img.shields.io/github/last-commit/BzGEO/BzGEO?label=profile%20updated&style=flat-square)](https://github.com/BzGEO)
